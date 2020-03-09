@@ -1,0 +1,16 @@
+{
+    "name": "haoyou/cashier",
+    "description": "The Haoyou cashier package",
+    "authors": [
+        {
+            "name": "lufee",
+            "email": "ldw1007@sina.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Haoyou\\Cashier\\": ""
+        }
+    }
+}
